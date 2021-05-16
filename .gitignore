@@ -83,4 +83,5 @@ typings/
 .idea/
 
 #Temp folder (image processing)
-/temp/
+temp/*
+!temp/.gitkeep #keep the folder itself
